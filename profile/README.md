@@ -9,9 +9,13 @@ See https://hyperpolarizedmri.ucsf.edu/research-tools-dissemination for more inf
 
 ### hyperpolarized-mri-toolbox
 
+https://github.com/LarsonLab/hyperpolarized-mri-toolbox
+
 The goal of this toolbox is to provide research-level and prototyping software tools for hyperpolarized MRI experiments. It is currently based on Matlab code, and includes code for designing radiofrequency (RF) pulses, readout gradients, and data reconstruction.
 
 ###  Spectroscopic Imaging VIsualization and Computing (SIVIC)
+
+https://github.com/SIVICLab/sivic
 
 The goal of this package is to provide data processing and visualization tools for MR spectroscopic imaging, include hyperpolarized MRI data.  It includes command line tools for data processing and a powerful GUI to navigate and visualize data.
 
