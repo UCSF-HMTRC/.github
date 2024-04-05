@@ -31,3 +31,13 @@ Current methods include
 * GE Metabolic-specific imaging with EPI
 * RTHawk Resesarch metabolite-specific imaging with spirals and real-time calibration methods
 
+## Pulseq Pulse Sequence Programs
+
+The Pulseq project is an open source framework for the development and execution of magnetic resonance (MR) pulse sequences for imaging and spectroscopy, and recently there are several available methods for Hyperpolarized MRI:
+
+* X-EPI - echo-planar imaging (EPI) sequences for X-nuclei, including spectral-spatial RF Excitation. 
+https://x-epi.readthedocs.io/en/latest/
+* Metabolite-specific bSSFP, gradient-echo spiral methods
+https://github.com/Xiaoxi-Liu/C13_sequences_Pulseq
+* Multi-echo bSSFP
+https://github.com/ZirunWang666/Pulseq_me_bssfp
